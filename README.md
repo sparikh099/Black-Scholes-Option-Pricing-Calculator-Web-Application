@@ -1,7 +1,3 @@
-# FinanceApplication
-Finance Application Providing Information about the Black-Scholes Option Pricing Model. The Application also gives information about companies and their most recent articles. 
-
-
 # Finance Application
 
 This application is designed to provide you with stock analysis of several stocks of your choosing

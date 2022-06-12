@@ -1,0 +1,50 @@
+Symbol,Name,Sector
+ABT,Abbott Laboratories,Health Care
+ABBV,AbbVie,Health Care
+ACN,Accenture,Information Technology
+ADBE,Adobe,Information Technology
+AMD,Advanced Micro Devices,Information Technology
+GOOGL,Alphabet (Class A),Communication Services
+GOOG,Alphabet (Class C),Communication Services
+AMZN,Amazon,Consumer Discretionary
+AAPL,Apple,Information Technology
+BAC,Bank of America,Financials
+BA,Boeing,Industrials
+ BMY,Bristol Myers Squibb,Health Care
+AVGO,Broadcom,Information Technology
+CVX,Chevron Corporation,Energy
+CSCO,Cisco Systems,Information Technology
+KO,Coca-Cola Company,Consumer Staples
+CMCSA,Comcast,Communication Services
+COST,Costco,Consumer Staples
+DHR,Danaher Corporation,Health Care
+LLY,Eli Lilly & Co,Health Care
+XOM,ExxonMobil,Energy
+META,Facebook,Communication Services
+INTC,Intel,Information Technology
+JNJ,Johnson & Johnson,Health Care
+JPM,JPMorgan Chase,Financials
+LIN,Linde,Materials
+MA,Mastercard,Information Technology
+MCD,McDonald's,Consumer Discretionary
+MRK,Merck & Co.,Health Care
+MSFT,Microsoft,Information Technology
+NKE,Nike,Consumer Discretionary
+NVDA,Nvidia,Information Technology
+PEP,PepsiCo,Consumer Staples
+PFE,Pfizer,Health Care
+PM,Philip Morris International,Consumer Staples
+PG,Procter & Gamble,Consumer Staples
+QCOM,Qualcomm,Information Technology
+RTX,Raytheon Technologies,Industrials
+CRM,Salesforce,Information Technology
+TSLA,Tesla,Consumer Discretionary
+TXN,Texas Instruments,Information Technology
+DIS,The Walt Disney Company,Communication Services
+TMO,Thermo Fisher Scientific,Health Care
+UNP,Union Pacific,Industrials
+UNH,UnitedHealth Group,Health Care
+VZ,Verizon Communications,Communication Services
+V,Visa,Information Technology
+WMT,Walmart,Consumer Staples
+WFC,Wells Fargo,Financials
