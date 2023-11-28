@@ -1,5 +1,6 @@
 # Finance Application
 https://sparikh099-finance-testing-iiljow.streamlitapp.com/ 
+
 This application is designed to provide you with stock analysis of several stocks of your choosing
 through options pricing and indicators of stocks. 
 Some of the the things that are included within this application include the 
